@@ -96,4 +96,4 @@ Finally, while reducing the classification threshold to the optimal cost one of 
 
 ## Generative AI use disclosure
 
-I used only ChatGPT for the following uses: as a supporting tooll through the project to structure the python code, any troubleshoot errors, and developing the Gradio dashboard with a more sophisticated look&feel. I also used it to clarify concepts related to logistic regression, pytorch training, evaluation metrics and the classification and business threshold. 
+I used only ChatGPT for the following uses: as a supporting tool through the project to structure the python code, any troubleshoot errors, and developing the Gradio dashboard with a more sophisticated look&feel. I also used it to clarify concepts related to logistic regression, pytorch training, evaluation metrics and the classification and business threshold. 
